@@ -1,7 +1,7 @@
 # 🔍 Sorting Algorithm Visualizer
 
 An interactive web-based tool to **visualize and compare the behavior of sorting algorithms** in real time. Built using **HTML, CSS, and JavaScript**, this project helps users understand the step-by-step process of popular sorting algorithms through animated bars and color cues.
-Try it Live: 
+Try it Live: https://radhikasorting-visualizer.netlify.app/
 
 ---
 
