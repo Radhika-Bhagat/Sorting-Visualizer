@@ -8,10 +8,10 @@ Try it Live:
 ## 📸 Demo
 
 > 🎥 **Before Sorting (Unsorted Random Array)**  
-![Before Sorting](before-sorting.png)
+![Before Sorting](/before-sorting.png)
 
 > 🎥 **After Sorting (Sorted Array using Quick Sort)**  
-![After Sorting](after-sorting.png)
+![After Sorting](/after-sorting.png)
 
 ---
 
